@@ -26,7 +26,7 @@ function Registration() {
             "password": password
         }
         // console.log(userDetails);
-        const response = await axios.post("http://localhost:5000/user-register", userDetails)
+        const response = await axios.post("https://bms-clone-backend.herokuapp.com/user-register", userDetails)
             .then((data) => {
             Swal.fire({
                 title: `<strong>${data.data.message}</strong>`,
