@@ -9,9 +9,9 @@ import Button from 'react-bootstrap/Button';
 function Header() {
     return (
         <div>
-            <Navbar bg="bg-back" expand="lg" variant="dark" style={{ backgroundColor: "rgb(51, 53, 69)" }}>
+            <Navbar bg="bg-back" expand="lg" variant="dark" style={{ backgroundColor: "rgb(51, 53, 69)", padding: "20px"}}>
                 <Container>
-                    <Navbar.Brand href="/">BookMyShow</Navbar.Brand>
+                    <Navbar.Brand href="/"><img style={{ height:"80px" , width:"auto" }} src="./assest/logo.png" /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
@@ -20,13 +20,16 @@ function Header() {
                             navbarScroll
                         >
                             <Nav.Link href="/">Home</Nav.Link>
-                            <NavDropdown title="Link" id="navbarScrollingDropdown">
+                            <Nav.Link href="/movies">All Movies</Nav.Link>
+                            <Nav.Link href="/register">User Registration</Nav.Link>
+
+                            {/* <NavDropdown title="Link" id="navbarScrollingDropdown">
                                 <NavDropdown.Item href="/movies">All Movies</NavDropdown.Item>
                                 <NavDropdown.Divider />
                                 <NavDropdown.Item href="/register">
                                     User Registration
                                 </NavDropdown.Item>
-                            </NavDropdown>
+                            </NavDropdown> */}
 
                         </Nav>
                         <Form className="d-flex">
@@ -36,14 +39,17 @@ function Header() {
                                 className="me-2"
                                 aria-label="Search"
                             />
-                            <Button variant="outline-success">Search</Button>
+                            <Button variant="outline-danger">Search</Button>
                         </Form>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
             <Container fluid style={{ background: "rgb(34, 37, 57)", color: "white", padding: "10px" }}>
-                <a>First Option</a>
-                <a>Second Option</a>
+            <Container style={{padding: "5px" }}>
+                <a>Contact Us&nbsp; &nbsp; &nbsp;</a>
+                <a>About us</a>
+            </Container>
+         
             </Container>
         </div>
     );

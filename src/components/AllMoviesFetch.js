@@ -26,9 +26,9 @@ function AllMoviesFetch() {
 
     return (
         <div>
-            <Container fluid style={{ padding: "5%", backgroundColor: "pink" }}>
+            <Container fluid style={{ padding: "5%", backgroundColor: "#F8F8F8" , }}>
 
-                <Row style={{ textAlign: 'center' }}>
+                <Row style={{ textAlign: 'center', }}>
                     {data.map((mov) =>
                         <Col onClick={() => window.location.href = "/movies/" + mov._id} key={mov._id} xs={6} md={4} lg={3} style={{ marginTop: "2%", cursor: "pointer" }}>
                             <Card>

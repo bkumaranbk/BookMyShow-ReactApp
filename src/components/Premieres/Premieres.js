@@ -11,8 +11,8 @@ function Premieres() {
             <Carousel indicators={false} variant="dark">
                 <Carousel.Item >
                     <CardGroup style={{ gap: "5%" }}>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -20,8 +20,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -29,8 +29,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -38,8 +38,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -47,8 +47,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -60,8 +60,8 @@ function Premieres() {
                 </Carousel.Item>
                 <Carousel.Item >
                     <CardGroup style={{ gap: "5%" }} >
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -69,8 +69,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -78,8 +78,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -87,8 +87,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{height: "500px", width: "270px", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
@@ -96,8 +96,8 @@ function Premieres() {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card className="bg-slider text-white" style={{ height: "450px", width: "230px", background: "rgb(43, 49, 72)" }}>
-                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00122455-lwtatstyvd-portrait.jpg" />
+                        <Card className="bg-slider text-white" style={{ height: "500px", width: "270px", border:"none", background: "rgb(43, 49, 72)" }}>
+                            <Card.Img style={{ height: "450px", width: "230px", borderRadius: "10px" }} variant="top" src="./assest/OIP.jpg" />
                             <Card.Body>
                                 <Card.Title>The Conjuring: The Devil Made Me Do It</Card.Title>
                                 <Card.Text>
