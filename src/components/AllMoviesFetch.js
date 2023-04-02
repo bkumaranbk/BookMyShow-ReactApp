@@ -15,7 +15,7 @@ function AllMoviesFetch() {
 
     useEffect(async () => {
         try {
-            const response = await axios.get('https://bms-clone-backend.herokuapp.com/movies');
+            const response = await axios.get('https://book-my-show-node-js-express-indol.vercel.app/movies');
             console.log(response);
             // data = response;
             setData(response.data);
